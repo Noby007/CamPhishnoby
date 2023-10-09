@@ -47,7 +47,7 @@ bash camphish.sh
 <p><b>Version: 1.3:</b> Fix ngrok direct link</p>
 
 ### Video Demo
-[![CamPhish Update demo]((ezgif-5-8faf92e4b8.gif))](https://www.youtube.com/watch?v=i7tvDJx3-yw)
+[![CamPhish Update demo](IMG_20231009_12230350.jpg)](https://www.youtube.com/watch?v=i7tvDJx3-yw)
 #### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
