@@ -1,6 +1,6 @@
 # CamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![CamPhish](IMG-20231009-WA0032.jpg)
+![
 ![CamPhish](IMG_20231009_13152793.jpg)
 
 # What is CamPhish?
