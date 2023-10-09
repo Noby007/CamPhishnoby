@@ -33,6 +33,7 @@ apt-get -y install php openssh git wget
 ```
 
 [(ezgif-5-8faf92e4b8.gif)]
+![CamPhish](ezgif-5-8faf92e4b8.gif)
 
 ## Installing (Kali Linux/Termux):
 
