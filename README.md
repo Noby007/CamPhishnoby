@@ -30,6 +30,8 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
 apt-get -y install php openssh git wget
 ```
 
+[(ezgif-5-8faf92e4b8.gif)]
+
 ## Installing (Kali Linux/Termux):
 
 ```
